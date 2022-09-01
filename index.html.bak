@@ -15,7 +15,7 @@ body{
 	height:1800px;
 	font-family:微軟正黑體;
 	margin: 0;
-    background-image: url(bk.jpg);
+    background-image: url(bk.png);
 	}
 .btn {
   margin: 10px;
