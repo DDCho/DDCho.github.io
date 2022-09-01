@@ -9,10 +9,8 @@
 <link rel="icon" type="png" href="tutor.png">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap" rel="stylesheet">
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap');
 
 
 body{
@@ -25,7 +23,7 @@ body{
 	}
 	
 h1{
-	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: 'Qwitcher Grypen', sans-serif;
 	margin-top: 200px;
 }
 
