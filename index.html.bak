@@ -9,8 +9,11 @@
 <link rel="icon" type="png" href="tutor.png">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap" rel="stylesheet">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap');
+
 
 body{
 	height:800px;
@@ -19,7 +22,6 @@ body{
     background-image: url(bk.png);
 	color: white;
 	text-align: center;
-	font-family: 'IBM Plex Sans', sans-serif;
 	}
 	
 h1{
