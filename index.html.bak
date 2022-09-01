@@ -22,7 +22,7 @@ body{
 	}
 	
 h1{
-	font-family: 'IBM Plex Sans';
+	font-family: 'IBM Plex Sans', sans-serif;
 	margin-top: 200px;
 }
 
