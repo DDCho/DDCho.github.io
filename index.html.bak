@@ -23,7 +23,7 @@ body{
 	}
 	
 h1{
-	font-family: 'Qwitcher Grypen', sans-serif;
+	font-family: 'Qwitcher Grypen';
 	margin-top: 200px;
 }
 
