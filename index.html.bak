@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
 <style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap');
 
 body{
 	height:1000px;
@@ -17,7 +18,12 @@ body{
 	margin: 0;
     background-image: url(bk.png);
 	color: white;
+	text-align: center;
 	}
+	
+h1{
+	font-family: "";
+}
 
 @media only screen and (max-width:600px) {
   img {
@@ -28,32 +34,9 @@ body{
 </head>
 <body>
 
-<div class="jumbotron">
-  <div class="container">
-    <h1>Bella Course</h1>
-	<h4>Everything you learn becomes a shortcut for understanding something else.</h4>
-	<a class="btn btn-primary" href="http://18.183.126.81/mobile.html" target="_blank">mobile version</a>
-	
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js'></script>
-<script>
-var s= skrollr.init();	
-</script>
+	<h1>Everything you learn becomes a shortcut for understanding something else.</h1>
 
 <script>
-
-$(".btn-default").click(function(){
-    $(".btn-default").css($(this).remove());
-}
-);
-
-$(".btn-success").click(function() {
-     location.reload();
-       });
-	  
 </script>
 </body>
 </html>
