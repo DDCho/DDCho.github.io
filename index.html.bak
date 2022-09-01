@@ -14,7 +14,6 @@
 
 
 body{
-	height:800px;
 	font-family:微軟正黑體;
 	margin: 0;
     background-color: lightgrey;
@@ -24,7 +23,7 @@ body{
 	
 h1{
 	font-family: 'Maven Pro';
-	margin-top: 200px;
+	margin-top: 250px;
 }
 
 @media only screen and (max-width:600px) {
@@ -36,7 +35,7 @@ h1{
 </head>
 <body>
 
-	<h1>Everything you learn becomes a shortcut for understanding something else.</h1>
+	<h3>Everything you learn becomes a shortcut for understanding something else.</h3>
 
 <script>
 </script>
